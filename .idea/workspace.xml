@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72b5ebfc-f7fd-41ca-9113-5273322257f7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/SparkStatFormatJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/SparkStatFormatJob.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/TopNStatJob.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/TopNStatJob.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/TopNStatJob2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/TopNStatJob2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/TopNStatJobYARN.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/job/TopNStatJobYARN.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/imooc/log/utils/IpUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/imooc/log/utils/IpUtils.scala" afterDir="false" />
-    </list>
+    <list default="true" id="72b5ebfc-f7fd-41ca-9113-5273322257f7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,8 +79,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="44">
-                <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+              <first_editor relative-caret-position="88">
+                <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
               </first_editor>
               <second_editor />
             </state>
@@ -343,12 +335,12 @@
       <workItem from="1537150324744" duration="818000" />
       <workItem from="1537163920618" duration="792000" />
       <workItem from="1537784173900" duration="1133000" />
-      <workItem from="1537881489438" duration="1713000" />
+      <workItem from="1537881489438" duration="1992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4456000" />
+    <option name="totallyTimeSpent" value="4735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -709,8 +701,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+          <first_editor relative-caret-position="88">
+            <caret line="2" column="50" lean-forward="true" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
           </first_editor>
           <second_editor />
         </state>
