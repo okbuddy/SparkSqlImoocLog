@@ -2,7 +2,6 @@ package com.imooc.log.job
 
 import com.imooc.log.bean.{DayCityVideoAccessStat, DayVideoAccessStat, DayVideoTrafficsStat}
 import com.imooc.log.dao.StatDAO
-import com.imooc.log.{DayVideoAccessStat, DayVideoTrafficsStat}
 import org.apache.spark.sql.expressions.Window
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.{DataFrame, SparkSession}

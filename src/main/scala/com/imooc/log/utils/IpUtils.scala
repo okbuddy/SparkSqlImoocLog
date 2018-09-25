@@ -1,12 +1,12 @@
 package com.imooc.log.utils
 
 /**
- * IP解析工具类
- */
+  * IP解析工具类
+  */
 object IpUtils {
 
 
-  def getCity(ip:String) = {
+  def getCity(ip: String) = {
     IpHelper.findRegionByIp(ip)
   }
 
